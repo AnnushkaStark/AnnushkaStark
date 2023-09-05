@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnnushkaStark
 - 👀 I’m interested in python development, backand development
-- 🌱 I’m currently learning how to fully build desktop applications  .
+- 🌱 I’m currently learning to put knowledge into practice  .
 - 📫 How to reach me instagram.com/bastrykinaanastasiia
 
 <!---
