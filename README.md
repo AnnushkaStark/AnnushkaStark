@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning to put knowledge into practice  .
 - 📫 How to reach me <https://instagram.com/bastrykinaanastasiia>
 
+![](https://komarev.com/ghpvc/?username=your-github-AnnushkaStark)
+
  
 [![trophy](https://github-profile-trophy.vercel.app/?username=AnnushkaStark)](https://github.com/ryo-ma/github-profile-trophy)
 
