@@ -2,7 +2,7 @@
 - 👀 I’m interested in python development, backand development
 - 🌱 I’m currently learning to put knowledge into practice  .
 - 📫 How to reach me <https://instagram.com/bastrykinaanastasiia>
-- [Telegram] (https://t.me/Bastrykinaanastasiia)
+- [Telegram](https://t.me/Bastrykinaanastasiia)
 
 
 ![](https://komarev.com/ghpvc/?username=your-github-AnnushkaStark)
