@@ -3,6 +3,7 @@
 - 📫 How to reach me <https://instagram.com/bastrykinaanastasiia>
 - [Telegram](https://t.me/Bastrykinaanastasiia)
 
+[![Humans Not Robots](https://githubusercontent.com)](https://github.com)
 
 
 ![](https://komarev.com/ghpvc/?username=your-github-AnnushkaStark)
