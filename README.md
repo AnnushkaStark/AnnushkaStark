@@ -4,7 +4,6 @@
 - [Telegram](https://t.me/Bastrykinaanastasiia)
 
 
-[![No AI Code](https://shields.io)](https://github.com)
 
 
 
