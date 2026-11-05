@@ -4,9 +4,6 @@
 - [Telegram](https://t.me/Bastrykinaanastasiia)
 
 
-[![Handcrafted Code](https://shields.io)](https://github.com)
-
-
 
 ![](https://komarev.com/ghpvc/?username=your-github-AnnushkaStark)
 
