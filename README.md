@@ -6,6 +6,8 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-AnnushkaStark)
 
+АИ хейтер АИ диссидент)
+
 <a href="https://www.aihonestybadge.com" target="_blank" rel="noopener"><img src="https://www.aihonestybadge.com/badges/no-ai-large.svg" alt="No AI" height="28"></a>
 
  
