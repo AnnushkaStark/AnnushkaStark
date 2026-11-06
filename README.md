@@ -6,6 +6,9 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-AnnushkaStark)
 
+[![No AI Used](https://githubusercontent.com)](https://github.com)
+
+
  
 [![trophy](https://github-profile-trophy.vercel.app/?username=AnnushkaStark)](https://github.com/ryo-ma/github-profile-trophy)
 
