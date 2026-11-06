@@ -6,7 +6,7 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-AnnushkaStark)
 
-
+<a href="https://www.aihonestybadge.com" target="_blank" rel="noopener"><img src="https://www.aihonestybadge.com/badges/no-ai-large.svg" alt="No AI" height="28"></a>
 
  
 [![trophy](https://github-profile-trophy.vercel.app/?username=AnnushkaStark)](https://github.com/ryo-ma/github-profile-trophy)
