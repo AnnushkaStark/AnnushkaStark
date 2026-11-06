@@ -6,7 +6,8 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-AnnushkaStark)
 
-[![No AI Used](https://githubusercontent.com)](https://github.com)
+[![AI Honesty: No AI](https://shields.io)](https://github.com)
+
 
 
  
